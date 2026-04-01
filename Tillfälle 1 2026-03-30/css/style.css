@@ -1,0 +1,54 @@
+body{
+    background-color: #ffeb3b}
+
+h1{
+    margin-left: 324px;
+    margin-right: 377px;
+    background-color: rgb(121 95 72 / 68%);
+    font-size: 100px;
+    border-radius: 50%;
+    font-family: fantasy; 
+    color: #FF9800;
+    border-color: black;
+    border-style: double;
+    border-width: 4px;
+}
+
+img {
+    margin-left: 250px;
+    width: 400px;
+    height: 300px;
+    border-color: rgb(223, 4, 4);
+    border-style: solid;
+    border-width: 2px;   
+}
+
+h2{
+    font-family: 'Arial Narrow'; 
+    margin-left: 425px;
+    color: black;
+
+    /*font-style: italic;*/
+}
+
+h3{
+    font-family: 'Arial Narrow'; 
+    margin-left: 400px;
+}
+
+p{
+    margin-left:300px;
+}
+
+input[type=number] {
+    margin-left: 186px;
+}
+
+button{
+    background-color: rgb(255, 255, 255);
+    margin-left: 426px;
+}
+
+input[type=text] {
+    font-family: fantasy;
+}
